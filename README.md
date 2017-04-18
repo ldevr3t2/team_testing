@@ -5,3 +5,4 @@ Page with links to all project testing repositories
 * [Web App Testing](https://github.com/ldevr3t2/webapp_testing) - David Gwizdala
 * [Fingerprint API Testing](https://github.com/ldevr3t2/fingerprint_testing) - Dong Wang
 * [Recommendation Storage Testing](https://github.com/ldevr3t2/recommend-storage_testing) - Matt Nikkel
+* [Recommendation API Testing](https://ilya_pozdneev@bitbucket.org/ilya_pozdneev/suggestion-api-testing.git) - Ilya Pozdneev
